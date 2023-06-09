@@ -17,10 +17,12 @@ And now I'm cutting my teeth on Python development with great help of [Hexlet.io
 Started playing _[Go (game)](https://en.wikipedia.org/wiki/Go_(game))_ to get ready for _Golang_ learning 🙃.
 
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=danokp&show_icons=true&count_private=true&theme=) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danokp&theme=black-ice&layout=compact)](https://github.com/HridoyHazard)
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danokp&show_icons=true&count_private=true&theme=)
+<br>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/daniilpenkov97)](https://leetcode.com/daniilpenkov97)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danokp&theme=black-ice&layout=compact)](https://github.com/danokp)
+<br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
